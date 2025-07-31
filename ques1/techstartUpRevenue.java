@@ -1,7 +1,7 @@
-package QuestionNo1;
+
 import java.util.*;
 
-public class TechStartupRevenue {
+public class techstartUpRevenue {
 
     static class Project {
         int investment;
